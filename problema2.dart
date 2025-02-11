@@ -4,7 +4,6 @@ import 'dart:io';
 List<double> capturarLista() {
   List<double> lista = [];
   print("sergio altamirano 22308051281041");
-  print("2 Crea un programa que tome una lista de números decimales (double) y calcule el promedio de los valores que utilice 2 funciones una para capturar datos de la lista y otra para mostrar los elementos");
   print("Ingrese el número de valores decimales que desea agregar:");
   int cantidad = int.parse(stdin.readLineSync()!);
 
